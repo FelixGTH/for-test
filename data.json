@@ -1,0 +1,152 @@
+{
+  "OnePlus 11 5G": {
+    "brand_name": "oneplus",
+    "price": "54999",
+    "rating": "89.0",
+    "os": "android"
+  },
+  "OnePlus Nord CE 2 Lite 5G": {
+    "brand_name": "oneplus",
+    "price": "19989",
+    "rating": "81.0",
+    "os": "android"
+  },
+  "Samsung Galaxy A14 5G": {
+    "brand_name": "samsung",
+    "price": "16499",
+    "rating": "75.0",
+    "os": "android"
+  },
+  "Motorola Moto G62 5G": {
+    "brand_name": "motorola",
+    "price": "14999",
+    "rating": "81.0",
+    "os": "android"
+  },
+  "Realme 10 Pro Plus": {
+    "brand_name": "realme",
+    "price": "24999",
+    "rating": "82.0",
+    "os": "android"
+  },
+  "Samsung Galaxy F23 5G (6GB RAM + 128GB)": {
+    "brand_name": "samsung",
+    "price": "16999",
+    "rating": "80.0",
+    "os": "android"
+  },
+  "Apple iPhone 14": {
+    "brand_name": "apple",
+    "price": "65999",
+    "rating": "81.0",
+    "os": "ios"
+  },
+  "Xiaomi Redmi Note 12 Pro Plus": {
+    "brand_name": "xiaomi",
+    "price": "29999",
+    "rating": "86.0",
+    "os": "android"
+  },
+  "Nothing Phone 1": {
+    "brand_name": "nothing",
+    "price": "26749",
+    "rating": "85.0",
+    "os": "android"
+  },
+  "OnePlus Nord 2T 5G": {
+    "brand_name": "oneplus",
+    "price": "28999",
+    "rating": "84.0",
+    "os": "android"
+  },
+  "Realme 10 Pro": {
+    "brand_name": "realme",
+    "price": "18999",
+    "rating": "82.0",
+    "os": "android"
+  },
+  "Oppo A78": {
+    "brand_name": "oppo",
+    "price": "18999",
+    "rating": "79.0",
+    "os": "android"
+  },
+  "Xiaomi Redmi Note 12 Pro 5G": {
+    "brand_name": "xiaomi",
+    "price": "24762",
+    "rating": "79.0",
+    "os": "android"
+  },
+  "Vivo T1 5G (6GB RAM + 128GB)": {
+    "brand_name": "vivo",
+    "price": "16990",
+    "rating": "80.0",
+    "os": "android"
+  },
+  "Samsung Galaxy S23 Ultra 5G": {
+    "brand_name": "samsung",
+    "price": "114990",
+    "rating": "nan",
+    "os": "android"
+  },
+  "Apple iPhone 13": {
+    "brand_name": "apple",
+    "price": "62999",
+    "rating": "79.0",
+    "os": "ios"
+  },
+  "Vivo Y16": {
+    "brand_name": "vivo",
+    "price": "9999",
+    "rating": "65.0",
+    "os": "android"
+  },
+  "OPPO Reno 9 Pro Plus": {
+    "brand_name": "oppo",
+    "price": "45999",
+    "rating": "86.0",
+    "os": "android"
+  },
+  "OnePlus 10R 5G": {
+    "brand_name": "oneplus",
+    "price": "32999",
+    "rating": "86.0",
+    "os": "android"
+  },
+  "Vivo Y22": {
+    "brand_name": "vivo",
+    "price": "14499",
+    "rating": "72.0",
+    "os": "android"
+  },
+  "OnePlus 11R": {
+    "brand_name": "oneplus",
+    "price": "39999",
+    "rating": "85.0",
+    "os": "android"
+  },
+  "Vivo V25 Pro 5G": {
+    "brand_name": "vivo",
+    "price": "35999",
+    "rating": "85.0",
+    "os": "android"
+  },
+  "Poco X4 Pro 5G": {
+    "brand_name": "poco",
+    "price": "14999",
+    "rating": "80.0",
+    "os": "android"
+  },
+  "Xiaomi Redmi Note 12": {
+    "brand_name": "xiaomi",
+    "price": "17859",
+    "rating": "76.0",
+    "os": "android"
+  },
+  "Vivo V26 Pro": {
+    "brand_name": "vivo",
+    "price": "42990",
+    "rating": "87.0",
+    "os": "android"
+  }
+}
