@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "email": "-",
+      "password": "\cTI3;iNxK7ae?,}uJH0\$a3BO4M5O56",
+      "createdAt": "2023-10-01T12:00:00Z",
+      "isActive": true,
+    },
+  ]
+}
