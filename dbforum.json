@@ -1,11 +1,19 @@
 {
   "users": [
     {
+      "id": 1,
       "username": "Admin",
-      "email": "-",
+      "email": "admin@example.com",
       "password": "cTI3;iNxK7ae?,}uJH0$a3BO4M5O56",
-      "createdAt": "25.10.2023",
-      "isActive": true
+      "createdAt": "2025-01-25",
+      "isActive": true,
+      "profile": {
+        "avatarUrl": "https://example.com/avatars/admin.jpg"
+      },
+      "settings": {
+        "theme": "dark",
+        "language": "en",
+      }
     }
   ]
 }
